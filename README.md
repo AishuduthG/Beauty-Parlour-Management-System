@@ -1,9 +1,9 @@
 # Beauty-Parlour-Management-System
 
-Project Name                      :  Beauty Parlour Management System (BPMS)
-Language Used                   :  PHP
-Database                              :  MySQL
-Software                               :  XAMPP / Wamp / Mamp/ Lamp (anyone)
+Project Name :  Beauty Parlour Management System (BPMS)
+Language Used :  PHP
+Database :  MySQL
+Software :  XAMPP 
 
 In this project we use PHP and  Mysql database. It has two modules admin and user.
 
@@ -41,3 +41,6 @@ Services: User views the services which is offer by beauty parlor.
 About Us: User sees the details of beauty parlor.
 
 Contact Us: User can contact with beauty parlor.
+
+# For any Queries - 
+email : aishuduth26@gmail.com
